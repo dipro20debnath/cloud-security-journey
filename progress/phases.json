@@ -1,0 +1,56 @@
+[
+  {
+    "phase": 1,
+    "name": "Foundations",
+    "start": "2026-10-26",
+    "end": "2027-01-17",
+    "goal": "Linux, networking, Python, Git, security fundamentals",
+    "gate": "Log analyzer on GitHub + 12 weeks of daily logs",
+    "progress": 0
+  },
+  {
+    "phase": 2,
+    "name": "AWS & cloud security core",
+    "start": "2027-01-18",
+    "end": "2027-05-23",
+    "goal": "IAM, VPC, S3, KMS, logging, detection",
+    "gate": "Pass SAA-C03 + Project 1 (secure AWS baseline)",
+    "progress": 0
+  },
+  {
+    "phase": 3,
+    "name": "IaC, DevSecOps & AI security",
+    "start": "2027-05-24",
+    "end": "2027-09-19",
+    "goal": "Terraform, CI/CD, Docker, Kubernetes, LLM security",
+    "gate": "4 documented projects on GitHub",
+    "progress": 0
+  },
+  {
+    "phase": 4,
+    "name": "First job",
+    "start": "2027-10-01",
+    "end": "2028-03-31",
+    "goal": "Cloud/DevOps or SOC role, local or remote",
+    "gate": "Job offer in hand",
+    "progress": 0
+  },
+  {
+    "phase": 5,
+    "name": "Experience",
+    "start": "2028-04-01",
+    "end": "2029-09-30",
+    "goal": "Production work, AWS SCS-C03, IELTS",
+    "gate": "About 2 years of experience",
+    "progress": 0
+  },
+  {
+    "phase": 6,
+    "name": "Job abroad",
+    "start": "2029-10-01",
+    "end": "2030-12-31",
+    "goal": "Germany, the Netherlands or the Gulf",
+    "gate": "Visa and job",
+    "progress": 0
+  }
+]

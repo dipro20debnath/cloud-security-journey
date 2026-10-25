@@ -1,0 +1,44 @@
+[
+  {
+    "id": "g1-1",
+    "gate": "Gate 1",
+    "item": "Completed Bandit levels 0–25",
+    "status": "todo"
+  },
+  {
+    "id": "g1-2",
+    "gate": "Gate 1",
+    "item": "Can split 10.0.0.0/16 into four /24 subnets from memory",
+    "status": "todo"
+  },
+  {
+    "id": "g1-3",
+    "gate": "Gate 1",
+    "item": "Can explain DNS and TLS in English in 2 minutes",
+    "status": "todo"
+  },
+  {
+    "id": "g1-4",
+    "gate": "Gate 1",
+    "item": "Log analyzer v1.0 on GitHub with README, tests and CI",
+    "status": "todo"
+  },
+  {
+    "id": "g1-5",
+    "gate": "Gate 1",
+    "item": "6 blog posts and at least 10 LinkedIn posts published",
+    "status": "todo"
+  },
+  {
+    "id": "g1-6",
+    "gate": "Gate 1",
+    "item": "AWS account secured: root MFA, budget alert, no idle resources",
+    "status": "todo"
+  },
+  {
+    "id": "g1-7",
+    "gate": "Gate 1",
+    "item": "Talked with at least one mentor or senior",
+    "status": "todo"
+  }
+]

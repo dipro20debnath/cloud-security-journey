@@ -1,0 +1,106 @@
+[
+  {
+    "id": "m01",
+    "date": "2026-11-13",
+    "event": "OWASP Dhaka online meetup",
+    "kind": "Community",
+    "phase": 1,
+    "status": "todo"
+  },
+  {
+    "id": "m02",
+    "date": "2026-11-15",
+    "event": "Message 2 seniors on LinkedIn",
+    "kind": "Community",
+    "phase": 1,
+    "status": "todo"
+  },
+  {
+    "id": "m03",
+    "date": "2026-11-29",
+    "event": "Book first ADPList mentor session",
+    "kind": "Community",
+    "phase": 1,
+    "status": "todo"
+  },
+  {
+    "id": "m04",
+    "date": "2026-12-11",
+    "event": "OWASP Dhaka online meetup",
+    "kind": "Community",
+    "phase": 1,
+    "status": "todo"
+  },
+  {
+    "id": "m05",
+    "date": "2026-12-12",
+    "event": "AWS Community Day Bangladesh",
+    "kind": "Community",
+    "phase": 1,
+    "status": "todo"
+  },
+  {
+    "id": "m06",
+    "date": "2027-01-08",
+    "event": "OWASP Dhaka online meetup",
+    "kind": "Community",
+    "phase": 1,
+    "status": "todo"
+  },
+  {
+    "id": "m07",
+    "date": "2027-01-17",
+    "event": "Gate 1 - Phase 1 complete",
+    "kind": "Gate",
+    "phase": 1,
+    "status": "todo"
+  },
+  {
+    "id": "m08",
+    "date": "2027-05-23",
+    "event": "SAA-C03 exam & Gate 2",
+    "kind": "Exam",
+    "phase": 2,
+    "status": "todo"
+  },
+  {
+    "id": "m09",
+    "date": "2027-09-19",
+    "event": "Gate 3 - 4 documented projects",
+    "kind": "Gate",
+    "phase": 3,
+    "status": "todo"
+  },
+  {
+    "id": "m10",
+    "date": "2027-10-01",
+    "event": "Start job applications",
+    "kind": "Career",
+    "phase": 4,
+    "status": "todo"
+  },
+  {
+    "id": "m11",
+    "date": "2028-03-31",
+    "event": "First job (target)",
+    "kind": "Career",
+    "phase": 4,
+    "status": "todo"
+  },
+  {
+    "id": "m12",
+    "date": "2029-09-30",
+    "event": "SCS-C03 & IELTS 7 (target)",
+    "kind": "Exam",
+    "phase": 5,
+    "status": "todo"
+  },
+  {
+    "id": "m13",
+    "date": "2029-10-01",
+    "event": "Apply for jobs abroad",
+    "kind": "Career",
+    "phase": 6,
+    "status": "todo"
+  }
+]

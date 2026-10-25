@@ -1,0 +1,38 @@
+[
+  {
+    "id": "blogs",
+    "label": "Blog posts published",
+    "current": 0,
+    "target": 6
+  },
+  {
+    "id": "posts",
+    "label": "LinkedIn posts",
+    "current": 0,
+    "target": 12
+  },
+  {
+    "id": "bandit",
+    "label": "Bandit levels completed",
+    "current": 0,
+    "target": 26
+  },
+  {
+    "id": "quizzes",
+    "label": "Daily quizzes taken",
+    "current": 0,
+    "target": 84
+  },
+  {
+    "id": "contacts",
+    "label": "Mentor / senior conversations",
+    "current": 0,
+    "target": 3
+  },
+  {
+    "id": "events",
+    "label": "Community events attended",
+    "current": 0,
+    "target": 4
+  }
+]
