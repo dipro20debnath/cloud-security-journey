@@ -1,6 +1,6 @@
 # Day 01 · Setup
 
-**Date:** 2026-10-25 · **Time spent:** ~3 h
+**Date:** 2026-10-25 · **Time spent:** ~3 h · **Quiz:** 5/5
 
 ## What I did
 - Set up my lab: Kali Linux (kernel 6.19, x86_64) running in VMware.

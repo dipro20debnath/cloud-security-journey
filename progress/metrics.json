@@ -20,7 +20,7 @@
   {
     "id": "quizzes",
     "label": "Daily quizzes taken",
-    "current": 0,
+    "current": 1,
     "target": 84
   },
   {

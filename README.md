@@ -25,7 +25,7 @@ _Last updated 25 Oct 2026._
 | Blog posts published | 0 | 6 | `░░░░░░░░░░` 0% |
 | LinkedIn posts | 0 | 12 | `░░░░░░░░░░` 0% |
 | Bandit levels completed | 0 | 26 | `░░░░░░░░░░` 0% |
-| Daily quizzes taken | 0 | 84 | `░░░░░░░░░░` 0% |
+| Daily quizzes taken | 1 | 84 | `░░░░░░░░░░` 1% |
 | Mentor / senior conversations | 0 | 3 | `░░░░░░░░░░` 0% |
 | Community events attended | 0 | 4 | `░░░░░░░░░░` 0% |
 
