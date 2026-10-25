@@ -5,22 +5,22 @@
 **Dipro** · CSE student at Metropolitan University, Sylhet, Bangladesh  
 Focus: AWS · Cloud security · DevSecOps
 
-![phase](https://img.shields.io/badge/phase-1%20Foundations-blue) ![days done](https://img.shields.io/badge/days%20done-0%2F84-lightgrey) ![hours](https://img.shields.io/badge/hours-0-informational) ![Gate 1](https://img.shields.io/badge/Gate%201-0%2F7-lightgrey)
+![phase](https://img.shields.io/badge/phase-1%20Foundations-blue) ![days done](https://img.shields.io/badge/days%20done-1%2F84-2ea44f) ![hours](https://img.shields.io/badge/hours-3-informational) ![Gate 1](https://img.shields.io/badge/Gate%201-0%2F7-lightgrey)
 
 _Last updated 25 Oct 2026._
 
 ## Now
 
-- **Current:** Day 1 · Setup (in progress)
-- **Phase 1:** 0 of 84 days complete (0%)
+- **Current:** Day 2 · Git fundamentals (to do)
+- **Phase 1:** 1 of 84 days complete (1%)
 - **Next milestone:** 13 Nov 2026 · OWASP Dhaka online meetup
 
 ## At a glance
 
 | Metric | Done | Target | Progress |
 | --- | ---: | ---: | --- |
-| Phase 1 days complete | 0 | 84 | `░░░░░░░░░░` 0% |
-| Hours logged | 0 | 210 | `░░░░░░░░░░` 0% |
+| Phase 1 days complete | 1 | 84 | `░░░░░░░░░░` 1% |
+| Hours logged | 3 | 210 | `░░░░░░░░░░` 1% |
 | Gate 1 criteria met | 0 | 7 | `░░░░░░░░░░` 0% |
 | Blog posts published | 0 | 6 | `░░░░░░░░░░` 0% |
 | LinkedIn posts | 0 | 12 | `░░░░░░░░░░` 0% |
@@ -33,7 +33,7 @@ _Last updated 25 Oct 2026._
 
 | Phase | Dates | Focus | Gate to pass | Progress |
 | --- | --- | --- | --- | --- |
-| 1. Foundations | 26 Oct 2026 – 17 Jan 2027 | Linux, networking, Python, Git, security fundamentals | Log analyzer on GitHub + 12 weeks of daily logs | 0% |
+| 1. Foundations | 26 Oct 2026 – 17 Jan 2027 | Linux, networking, Python, Git, security fundamentals | Log analyzer on GitHub + 12 weeks of daily logs | 1% |
 | 2. AWS & cloud security core | 18 Jan 2027 – 23 May 2027 | IAM, VPC, S3, KMS, logging, detection | Pass SAA-C03 + Project 1 (secure AWS baseline) | 0% |
 | 3. IaC, DevSecOps & AI security | 24 May 2027 – 19 Sep 2027 | Terraform, CI/CD, Docker, Kubernetes, LLM security | 4 documented projects on GitHub | 0% |
 | 4. First job | 1 Oct 2027 – 31 Mar 2028 | Cloud/DevOps or SOC role, local or remote | Job offer in hand | 0% |
@@ -72,7 +72,7 @@ gantt
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Done | Focus |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | ---: | --- |
-| W1 | 🟨 1 | ⬜ 2 | ⬜ 3 | ⬜ 4 | ⬜ 5 | ⬜ 6 | ⬜ 7 | 0/7 | Setup, Git & Linux basics |
+| W1 | [🟩 1](logs/day-01.md) | ⬜ 2 | ⬜ 3 | ⬜ 4 | ⬜ 5 | ⬜ 6 | ⬜ 7 | 1/7 | Setup, Git & Linux basics |
 | W2 | ⬜ 8 | ⬜ 9 | ⬜ 10 | ⬜ 11 | ⬜ 12 | ⬜ 13 | ⬜ 14 | 0/7 | Processes, SSH, logs & Bash |
 | W3 | ⬜ 15 | ⬜ 16 | ⬜ 17 | ⬜ 18 | ⬜ 19 ⭐ | ⬜ 20 | ⬜ 21 | 0/7 | Linux security & first mini project |
 | W4 | ⬜ 22 | ⬜ 23 | ⬜ 24 | ⬜ 25 | ⬜ 26 | ⬜ 27 | ⬜ 28 | 0/7 | Networking I: fundamentals |
@@ -89,7 +89,7 @@ gantt
 
 | Day | Date | Topic | Status | Log |
 | ---: | --- | --- | --- | --- |
-| 1 | 26 Oct 2026 | Setup | 🟨 in progress | — |
+| 1 | 26 Oct 2026 | Setup | 🟩 done | [day-01](logs/day-01.md) |
 | 2 | 27 Oct 2026 | Git fundamentals | ⬜ to do | — |
 | 3 | 28 Oct 2026 | Linux filesystem | ⬜ to do | — |
 | 4 | 29 Oct 2026 | Working with files | ⬜ to do | — |
@@ -129,7 +129,7 @@ All of these must be true before Phase 2 starts.
 
 ## Daily logs
 
-_No logs yet. Day 1 is in progress._
+- [Day 01 · Setup](logs/day-01.md)
 
 ## Repository structure
 

@@ -7,9 +7,9 @@
     "topic": "Setup",
     "kind": "study",
     "event": "",
-    "status": "in_progress",
-    "done_on": null,
-    "hours": 0
+    "status": "done",
+    "done_on": "2026-10-25",
+    "hours": 3
   },
   {
     "day": 2,
